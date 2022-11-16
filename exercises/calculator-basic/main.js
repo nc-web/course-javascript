@@ -1,9 +1,5 @@
 
 
-
-
-
-
 document.querySelector("#app").innerHTML = `
   <h2> CALCULATOR - BASIC </h2>
 `;
