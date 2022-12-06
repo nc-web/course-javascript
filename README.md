@@ -1,2 +1,3 @@
-# course-javascript
-NC Course - Javascript
+# COURSE - WEB HEALTH
+
+NC Course - Web Health
